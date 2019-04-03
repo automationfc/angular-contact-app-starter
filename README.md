@@ -1,6 +1,6 @@
-# Contacts App Starter Editing
+# Contacts App Starter for E2E Testing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
 
